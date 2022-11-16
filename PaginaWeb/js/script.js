@@ -21,11 +21,11 @@ document.addEventListener('DOMContentLoaded', function() {
                  {img: './img/galeria/18.jpg'},
                  {img: './img/galeria/19.jpg'},
                  {img: './img/galeria/20.jpg'},
-                 {img: './img/galeria/21.jpg'},
-                 {img: './img/galeria/22.jpg'},
-                 {img: './img/galeria/23.jpg'},
-                 {img: './img/galeria/24.jpg'},
-                 {img: './img/galeria/25.jpg'}
+                //  {img: './img/galeria/21.jpg'},
+                //  {img: './img/galeria/22.jpg'},
+                //  {img: './img/galeria/23.jpg'},
+                //  {img: './img/galeria/24.jpg'},
+                //  {img: './img/galeria/25.jpg'}
              ];
         
 
